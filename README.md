@@ -1,2 +1,3 @@
-# 2122-yr1-team-cookieshot
-CS1S464 2021/22 Team Cookieshot
+# lemmings_doctormike
+
+Developed with Unreal Engine 4
